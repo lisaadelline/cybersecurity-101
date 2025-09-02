@@ -7,7 +7,7 @@ The lessons combine stories, real-world hacks, demos, and hands-on challenges to
 
 About the Project
 - Audience: high school students (beginners, casual computer users, and curious minds).  
-- Format: 32 sessions, each 45–60 minutes.  
+- Format: 31 sessions, each 45–60 minutes.  
 - Goal: To spark interest in cybersecurity, explain its real-world impact, and teach basic defense strategies.  
 - Style: Stories first, concepts second. Each session has a shock factor, a demo, and an interactive activity.  
 
@@ -30,7 +30,7 @@ Part 2: Real-World Hacks (9–16)
 10. Operation Olympic Games – Stuxnet, hacking nuclear systems  
 11. Turning Off the Lights – Ukraine blackout cyberattacks  
 12. The Spy Inside the Update – SolarWinds supply chain hack  
-13. Ransomware Rampage – WannaCry + fake ransomware demo 
+13. Ransomware Rampage – WannaCry + fake ransomware demo
 14. Your Data for Sale – Dark web markets, stolen accounts  
 15. Hacktivists & Rebels – Anonymous, WikiLeaks, hacktivism  
 16. Interactive Phishing Challenge – Team-based phishing detection  
